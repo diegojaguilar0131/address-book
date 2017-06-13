@@ -16,6 +16,7 @@ Contact.prototype.fullName = function() {
 }
 
 
+
 $(document).ready(function() {
   $("#add-address").click(function() {
     $("#new-addresses").append('<div class="new-address">' +
